@@ -1,6 +1,7 @@
 # **Hi, there. I'm Marharyta (You can use Mag)**:open_hands:
 __________________________________________________________
-| [telegram](https://t.me/Pandoraaa7)|#### [email](pandoraaa274@gmail.com)|
+[telegram](https://t.me/Pandoraaa7)
+[email](pandoraaa274@gmail.com)
 __________________________________________________________
 ## Skills
 + ### Responsive web-development:
