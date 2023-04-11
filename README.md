@@ -5,10 +5,10 @@ __________________________________________________________
 + [email](pandoraaa274@gmail.com)
 __________________________________________________________
 ## About me :blue_heart::yellow_heart:
-I am a responsible and enthusiastic frontend developer who enjoys learning new things and tackling complex problems.My passion for technology and design drives me to constantly stay up-to-date with the latest industry trends and best practices. I am always looking for opportunities to learn and grow my skills.
+I am a responsible and enthusiastic frontend developer who enjoys learning new things and tackling complex problems.My passion for technology drives me to constantly stay up-to-date with the latest industry trends and best practices. I am always looking for opportunities to learn and grow my skills.
 
 ## Skills: 
-### + Frontend Development 
+### Frontend Development 
       - HTML 
       - CSS 
       - Responsive Web Development
@@ -17,7 +17,7 @@ I am a responsible and enthusiastic frontend developer who enjoys learning new t
       - Object-Oriented Programming (OOP) 
       - React
       - TypeScript
- ### + Tools and Frameworks 
+ ### Tools and Frameworks 
       - Redux
       - Webpack 
       - Gulp 
