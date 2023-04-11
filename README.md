@@ -7,22 +7,22 @@ __________________________________________________________
 ## About me :blue_heart::yellow_heart:
 I am a responsible and enthusiastic frontend developer who enjoys learning new things and tackling complex problems.My passion for technology and design drives me to constantly stay up-to-date with the latest industry trends and best practices. I am always looking for opportunities to learn and grow my skills.
 
-## Skills
+## Skills :heavy_check_mark:
 ### Frontend Development 
-    - HTML 
-    - CSS 
-    - Responsive Web Development
-    - SASS/LESS (Preprocessors)
-    - JavaScript 
-    - Object-Oriented Programming (OOP) 
-    - React
-    - TypeScript
+    - :black_small_square:HTML 
+    - :black_small_square:CSS 
+    - :black_small_square:Responsive Web Development
+    - :black_small_square:SASS/LESS (Preprocessors)
+    - :black_small_square:JavaScript 
+    - :black_small_square:Object-Oriented Programming (OOP) 
+    - :black_small_square:React
+    - :black_small_square:TypeScript
  ### Tools and Frameworks 
-     - Redux
-     - Webpack 
-     - Gulp 
-     - Figma
-     - Photoshop
+     - :white_small_square:Redux
+     - :white_small_square:Webpack 
+     - :white_small_square:Gulp 
+     - :white_small_square:Figma
+     - :white_small_square:Photoshop
 
 __________________________________
 #### My codewars achievments :star:
